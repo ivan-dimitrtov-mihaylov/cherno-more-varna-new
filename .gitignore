@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Large files
+public/video.mp4

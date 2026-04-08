@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QQCNG0DT69"></script>
+    <script> window.dataLayer = window.dataLayer || []; function
+            gtag() { dataLayer.push(arguments); } gtag('js', new Date());
+        gtag('config', 'G-QQCNG0DT69'); </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+    <title>Конферентен Център -хотел Черно Море</title>
+    <meta name="description"
+        content="Изцяло реновиран конферентен блок - 4 модерно оборудвани зали с различен капацитет и възможен тип подредба в зависимост от Вашето желание.">
+
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+    <link rel='stylesheet' href='plugins\gdlr-hostel\gdlr-hotel.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='css\style.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\superfish\css\superfish.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\dl-menu\component.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\font-awesome-new\css\font-awesome.min.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\fancybox\jquery.fancybox.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\flexslider\flexslider.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='css\style-responsive.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='css\style-custom.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='plugins\masterslider\public\assets\css\masterslider.main.css' type='text/css'
+        media='all'>
+    <link rel='stylesheet' href='css\custom.css?ver=2.6' type='text/css' media='all'>
+    <script>
+        Promise.all([
+            fetch('./footer.html').then(response => response.text())
+        ])
+            .then((values) => {
+                document.getElementById('footer-wrapper').innerHTML = values[0];
+            })
+            .catch(error => console.log(error));
+    </script>
+    <script src="/js/button.js"></script>
+    <script>addClickListenerToResBtn();</script>
+</head>
+
+<body data-rsssl="1"
+    class="home  hotelmaster-button-classic-style  header-style-1  hotelmaster-classic-style  hotelmaster-single-classic-style">
+
+    <div class="body-wrapper gdlr-boxed-style float-menu gdlr-icon-dark gdlr-header-solid" data-home="index.html">
+
+        <header class="gdlr-header-wrapper">
+            <!-- top navigation -->
+            <div class="top-navigation-wrapper" id="top-navigation-wrapper">
+                <div class="top-navigation-container container">
+                    <div class="top-navigation-left">
+                        <div class="icons-wrapper">
+                            <div class="social-icon new-icon-desktop">
+                                <a href="/contact-page.html" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-phone-30.png" alt="Facebook">
+                                </a>
+                                <a href="/contact-page.html" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-place-marker-50.png" alt="Facebook">
+                                </a>
+                                <a href="mailto:reservations@chernomorebg.com" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-envelope-50.png" alt="Facebook">
+                                </a>
+                                <a href="https://toprentacar.bg/?partner=cherno-more-hotel " target="_blank">
+                                    <img width="42" height="42" src="images/rentacarchernomore.png" alt="Facebook">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="top-navigation-left-text" style="display: flex; flex-direction: column; align-items: center; width: 700px;">
+                            <div>
+                                <span>Hotel Reception: <a href="tel:+359 882 907 308">+359 882 907 308</a></span>
+                                <span>Casino Reception: <a href="tel:+359 52 910 360">+359 52 910 360</a></span>
+                            </div>
+                            <div>
+                                <span>Restaurant Cherno More: <a href="tel:+359 889 624 017">+359 889 624 017</a></span>
+                                <span>Wellness Center Reception: <a href="tel:+359 899 994 149">+359 899 994 149</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="top-navigation-right">
+                        <div class="top-social-wrapper">
+                            <div class="social-icon new-icon">
+                                <a href="/contact-page.html" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-phone-30.png" alt="Facebook">
+                                </a>
+                            </div>
+                            <div class="social-icon new-icon">
+                                <a href="/contact-page.html" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-place-marker-50.png" alt="Facebook">
+                                </a>
+                            </div>
+                            <div class="social-icon new-icon">
+                                <a href="mailto:reservations@chernomorebg.com" target="_blank">
+                                    <img width="42" height="42" src="images/icons8-envelope-50.png" alt="Facebook">
+                                </a>
+                            </div>
+                            <div class="social-icon new-icon">
+                                <a href="https://toprentacar.bg/?partner=hotelbulgaria" target="_blank">
+                                    <img width="42" height="42" src="images/TopRentACar_LOGO_1000x1000-prozrano.png"
+                                        alt="Facebook">
+                                </a>
+                            </div>
+                            <div class="social-icon">
+                                <a href="https://www.facebook.com/chernomorehotel" target="_blank">
+                                    <img width="32" height="32" src="images\light\social-icon\facebook.png"
+                                        alt="Facebook">
+                                </a>
+                            </div>
+                            <div class="social-icon">
+                                <a href="https://www.instagram.com/hotel_casino_chernomore/" target="_blank">
+                                    <i class="fa fa-instagram" aria-hidden="true" style="font-size: 18px;"></i>
+                                </a>
+                            </div>
+                            <div class="social-icon">
+                                <a href="https://www.linkedin.com/company/hotel-casino-cherno-more/" target="_blank">
+                                    <img width="32" height="32" src="images\light\social-icon\linkedin.png"
+                                        alt="Linkedin">
+                                </a>
+                            </div>
+                            <div class="lang-switcher-wrapper">
+                                <a href="javascript:void(0);" id="lang-switcher">
+                                    <i class="fa fa-globe"></i>EN
+                                </a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="top-navigation-divider"></div>
+
+            <!-- logo -->
+            <div class="gdlr-header-inner">
+                <div class="gdlr-header-container container">
+                    <!-- logo -->
+                    <div class="gdlr-logo">
+                        <div class="gdlr-logo-inner">
+                            <a href="index.html">
+                                <img src="images\cherno.png"
+                                    alt="Cherno More Hotel"> </a>
+                            <div class="gdlr-responsive-navigation dl-menuwrapper" id="gdlr-responsive-navigation">
+                                <button class="dl-trigger">Open Menu</button>
+                                <ul id="menu-main-menu" class="dl-menu gdlr-main-mobile-menu">
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a href="index.html">Начало</a>
+                                    </li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a href="about-us.html">За Нас</a>
+                                    </li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a
+                                            href="rooms.html">Настаняване</a>
+                                        <ul class="dl-submenu">
+                                            <li class="menu-item"><a href="classic-single.html">Единична Стая Класик</a>
+                                            </li>
+                                            <li class="menu-item"><a href="classic-double.html">Двойна Стая Класик</a>
+                                            </li>
+                                            <li class="menu-item"><a href="classic-twin.html">Двойна Стая Класик</a>
+                                            </li>
+                                            <li class="menu-item"><a href="deluxe-double.html">Двойна Стая Делукс</a>
+                                            </li>
+                                            <li class="menu-item"><a href="deluxe-twin.html">Двойна Стая Делукс</a></li>
+                                            <li class="menu-item"><a href="exclusive.html">Двойна Стая Ексклузив</a>
+                                            </li>
+                                            <li class="menu-item"><a href="suite.html">Апартамент</a></li>
+                                            <li class="menu-item"><a href="exclusive-suite.html">Ексклузивен
+                                                    апартамент</a></li>
+                                            <li class="menu-item"><a href="presidential-suite.html">Президентски
+                                                    апартамент</a></li>
+                                            <li class="menu-item"><a href="special-offers.html">Специални оферти</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a href="restaurant.html">Ресторант
+                                            Черно море</a>
+                                        <ul class="dl-submenu">
+                                            <li class="menu-item"><a href="weddings-and-family-events.html">Сватбени и
+                                                    семейни<br /> тържества</a></li>
+                                            <li class="menu-item"><a href="company-events.html">Корпоративни събития в Ресторант „Черно Море“</a>
+                                            </li>
+                                            <li class="menu-item"><a href="catering.html">Кетъринг</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item current-menu-item menu-item gdlr-normal-menu"><a
+                                            href="conference-centre.html">Конферентен Център</a></li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a href="casino.html">Казино</a>
+                                    </li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a
+                                            href="entertainment.html">Развлечения</a></li>
+                                    <li class="menu-item menu-item gdlr-normal-menu"><a
+                                            href="special-offers.html">Oферти</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- navigation -->
+                    <div class="gdlr-navigation-wrapper">
+                        <nav class="gdlr-navigation" id="gdlr-main-navigation" role="navigation">
+                            <ul id="menu-main-menu-1" class="sf-menu gdlr-main-menu">
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="index.html">Начало</a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="about-us.html">За Нас</a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="rooms.html">Настаняване</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="classic-single.html">Единична Стая Класик</a>
+                                        </li>
+                                        <li class="menu-item"><a href="classic-double.html">Двойна Стая Класик</a></li>
+                                        <li class="menu-item"><a href="classic-twin.html">Двойна Стая Класик</a></li>
+                                        <li class="menu-item"><a href="deluxe-double.html">Двойна Стая Делукс</a></li>
+                                        <li class="menu-item"><a href="deluxe-twin.html">Двойна Стая Делукс</a></li>
+                                        <li class="menu-item"><a href="exclusive.html">Двойна Стая Ексклузив</a></li>
+                                        <li class="menu-item"><a href="suite.html">Апартамент</a></li>
+                                        <li class="menu-item"><a href="exclusive-suite.html">Ексклузивен апартамент</a>
+                                        </li>
+                                        <li class="menu-item"><a href="presidential-suite.html">Президентски
+                                                апартамент</a></li>
+                                        <li class="menu-item"><a href="special-offers.html">Специални оферти</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="restaurant.html">Ресторант
+                                        Черно море</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="weddings-and-family-events.html">Сватбени и
+                                                семейни<br /> тържества</a></li>
+                                        <li class="menu-item"><a href="company-events.html">Корпоративни събития в Ресторант „Черно Море“</a></li>
+                                        <li class="menu-item"><a href="catering.html">Кетъринг</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item current-menu-item menu-item gdlr-normal-menu"><a
+                                        href="conference-centre.html">Конферентен Център</a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="casino.html">Казино</a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a
+                                        href="entertainment.html">Развлечения</a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu"><a href="special-offers.html">Оферти
+                                    </a></li>
+                                <li class="menu-item menu-item gdlr-normal-menu" id="reservation-link"
+                                    class="reservation-link">
+                                    <button class="resBtn" id="resBtn" onclick="addClickListenerToResBtn()">
+                                        Резервирай
+                                    </button>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="gdlr-navigation-gimmick " id="gdlr-navigation-gimmick"></div>
+                        <div class="clear">
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div id="gdlr-header-substitute">
+        </div>
+        <div class="gdlr-page-title-wrapper">
+            <div class="gdlr-page-title-overlay"></div>
+            <div class="gdlr-page-title-container container">
+                <h1 class="gdlr-page-title">Конферентен център</h1>
+            </div>
+        </div>
+        <!-- is search -->
+        <div class="content-wrapper">
+            <div class="gdlr-content">
+                <div class="with-sidebar-wrapper">
+                    <section id="content-section-1">
+                        <div class="gdlr-color-wrapper gdlr-show-all no-skin bg2 pt65 pb25">
+                            <div class="container">
+                                <div class="gdlr-item">
+                                    <h1 style="text-align: center; color: #44657C;">Идеалното място за Вашето събитие!
+                                    </h1>
+                                    <p>Конферентният център разполага с 4 мултифункционални зали. Три от тях са с
+                                        възможност за различен тип подредба, а четвъртата е VIP зала за заседания.
+                                        Залите предлагат висок стандарт на съвременно техническо оборудване и удобството
+                                        на индивидуално контролирана климатизация.
+                                        <br>Всички зали са с естествена дневна светлина и възможност за пълно
+                                        затъмняване. Липсата на колони допринася за удобството и комфорта при провеждане
+                                        на Вашето събитие.
+                                        <br> Реновирани и с модерно техническо оборудване, те ще отговорят на всички
+                                        Ваши изисквания.
+                                    </p>
+                                    <div class="halls">
+                                        <div class="hall" style="gap:60px"">
+                                            <img style=" width:250px; display:none"
+                                            src="./upload/conference-centre/chm1.jpg">
+                                            <img style="width:250px; display:none"
+                                                src="./upload/conference-centre/chm2.jpg">
+                                            <div class="flexslider">
+                                                <ul class="slides">
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm1.jpg" alt="Image 1">
+                                                    </li>
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm2.jpg" alt="Image 2">
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="hall-text">
+                                                <h2>Зала Черно Море</h2>
+                                                <p style="font-size: 16px;">
+                                                    С площ от 213 кв.м. елегантно проектираната зала Черно море може да
+                                                    посрещне едновременно до 230 гости на Вашето корпоративно събитие.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="halls">
+                                        <div class="hall" style="gap:60px"">
+                                            <img style=" width:250px; display:none"
+                                            src="./upload/conference-centre/chm3.jpg">
+                                            <img style="width:250px; display:none"
+                                                src="./upload/conference-centre/chm4.jpg">
+                                            <div class="hall-text odesos">
+                                                <h2>Зала Варна</h2>
+                                                <p style="font-size: 16px;">
+                                                    С площ от 144 кв.м. зала Варна е перфектният избор за Вашата работна
+                                                    среща или корпоративно събитие с капацитет до 130 гости .
+                                                </p>
+                                            </div>
+                                            <div class="flexslider">
+                                                <ul class="slides">
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm3.jpg" alt="Image 1">
+                                                    </li>
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm4.jpg" alt="Image 2">
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="halls">
+                                        <div class="hall" style="gap:60px"">
+                                            <img style=" width:250px; display:none"
+                                            src="./upload/conference-centre/chm5.jpg">
+                                            <img style="width:250px; display:none"
+                                                src="./upload/conference-centre/chm6.jpg">
+                                            <div class="flexslider">
+                                                <ul class="slides">
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm5.jpg" alt="Image 1">
+                                                    </li>
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm6.jpg" alt="Image 2">
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="hall-text">
+                                                <h2>Зала Галата</h2>
+                                                <p style="font-size: 16px;">
+                                                    С площ от 59 кв.м. зала Галата съчетава функционалност и уют.
+                                                    Подходяща е за семинари и обучения, както и за по-малки срещи и
+                                                    събития - максимален капацитет 50 гости.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="halls">
+                                        <div class="hall" style="gap:60px"">
+                                            <img style=" width:250px; display:none"
+                                            src="./upload/conference-centre/chm7.jpg">
+                                            <img style="width:250px; display:none"
+                                                src="./upload/conference-centre/chm8.jpg">
+                                            <div class="hall-text odesos">
+                                                <h2> Зала Одесос </h2>
+                                                <p style="font-size: 16px;">
+                                                    Eлегантно облицована и комфортна, най-малката зала Одесос в
+                                                    Конферентния център предлага изключителни условия за малки
+                                                    мероприятия и съвещания.
+                                                </p>
+                                            </div>
+                                            <div class="flexslider">
+                                                <ul class="slides">
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/chm7.webp" alt="Image 1">
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+				                    <div class="halls">
+                                        <div class="hall" style="gap:60px"">
+                                            <img style=" width:250px; display:none"
+                                            src="./upload/conference-centre/bghall.webp">
+                                            <img style="width:250px; display:none"
+                                                src="./upload/conference-centre/bghall.webp">
+                                            <div class="flexslider">
+                                                <ul class="slides">
+                                                    <li class="flexli"><img style="width:500px"
+                                                            src="./upload/conference-centre/bghall.webp" alt="Image 1">
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                            <div class="hall-text">
+                                                <h2>Зала „България“</h2>
+                                                <p style="font-size: 16px;">
+                                                    С площ от 437 кв.м., зала България е най-голямата и многофункционална
+                                                    зала в Конферентния център. Тя може да се използва като едно общо
+                                                    пространство с капацитет до 550 гости, подходящо за мащабни
+                                                    корпоративни събития и конференции. <br>
+                                                    Залата разполага с възможност да бъде разделена на три самостоятелни
+                                                    части, което я прави изключително гъвкава според нуждите на събитието:<br>
+                                                    * Част 1 – 144 кв.м., капацитет до 178 гости<br>
+                                                    * Част 2 – 147 кв.м., капацитет до 188 гости<br>
+                                                    * Част 3 – 144 кв.м., капацитет до 164 гости<br>
+                                                    Комбинирането на отделните части (1+2 или 2+3) позволява провеждането
+                                                    на паралелни събития, обучения и семинари, като същевременно се запазва
+                                                    комфортът и функционалността на пространството.
+
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <table border="1" class="table-container">
+                                        <tbody class="table-border">
+                                            <tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p style="margin-right:40px">Зала</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div style="display:flex">
+                                                            <p style="margin-right:2px; margin-left:-20px">Площ(кв.м)
+                                                            </p>
+                                                            <p>Размери</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                        </div>
+                                                        <div>
+                                                            <p><img style="margin-left: 1px;"
+                                                                    src="data:image/png;base64,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"
+                                                                    alt="" />Киносалон</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p><img style="margin-left: 6px;"
+                                                                    src="data:image/png;base64,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"
+                                                                    alt="" /> П-образно</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p><img style="margin-left: 11px;"
+                                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA5CAYAAACGRC3XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABWDSURBVGhD1VpnYxTHsuU3v2tMMGDANuDrhHHAxgns+xxwuKAsUAAhASKjuNqclFcbtNq8q/POqZ6RZIxWvg/4cGu3Z3p6uqqrqlOdmdmHl02b/Lc2UUODqWnXOmzyGqgz1byz7rWYdOa9zQpTzVW3+i00eNHkeZP3N1X3JdM+kZd/iUTlqXCdqm/KyEoWpeVp5JJ3kE+MIpcaQT6pNIpsagzZpNIt5BIjyMVVdgel1QnyrQItGU+JNH5TmZdMr8gBVJa93aTSrWoeazMDCA58jNmekwh2v4kQk87B7uOY81Kw+yjPxzDbfQLTvScQHHqffD1olTJm+H+dA1rqeaZC+jHmrr9Pow8g0XMAyZ5DSHS/gXjPjtR7mOkQ0+tI9B5ArOcgIl0HEOw7xRExZlOjZU74L3CAr6Rm8CYVT0100JCjiHb/g8YfREoOoJGJvp1pP+JMiT7WoRPidFCy6yBHxWEknlzmEpGnrG3ZL5NeoQOYWkUkHl1GWL3cLcOP0ECdXYr3HvTSAUsaIXFzEB3AfIAOiD78Ba36uucAE/1S6ZU5QKsAUMZa6BpCXScQ7zxmQz/R85pn8LbhlufoSDDFuzkCel7nNHgds70nMT87QEdWOQW2Zb9MegUO4Kblrdza2ur5GGJjl7jAvcV5/QYi3Zzf7N0IjQ3rrOutdADRrv102EHMcMGM3v0BtXzU1hOtKK+CXokD/P26xW7bbJVRywaxPN2FxL3/Rfz+vxC/9z3zLsXHd6aLLPvO6ixyB6jn5iiwaLuJHPDy+/8VOMAGvzmBua1hW2Umj1ZjjSmLzfoaE7e3mtLqVmop1Vc4cNbIXCSPAqOGTaeXHwI5egEHyLDnqfVnB1hiXUVzjOWsJ8W1lVjRT3Zfef9eUzuJ8jx4ccDLXgdewAEiqflnhXwlTWmbAjLO1bJElq38X5LjlY12rbNlfJe8fPqPHfDnHvirA3yyUrNgp+K69sos/v/LePDKnpHpvODyHvmOfjb9p/S3HbDdiMs7hXzF/0qmilV2eaEC49vidWlbrnffynXUGJJsXrsij57l2Z4alrxaIl3vRXs6wKngfpySXlKo6y1O1sOu19Scn3YeHbeQIOuaUu6s7HbygJNdiNOdvKyvCEl1eGGLixCiUCTzppO2S5t8Xl0dLLMr7eEACZZxTnlbrGxOK+8WOr8RGeDq+mm7YZnvb2Sul2Ss62GXZEjdO+/k2yHFMuIUyKI28qF0YZmz3wqYpIffzp8kPJf2dIDh8C0hMkI4Xg5R3utVI9VR3lRyHDva92v5dbZl6dmA/3zAyd32wQ4BdnKOlEauwJezU6aTq6cR2/d2p7YOkCJbJrKHKusJ5BYfIjf/AHmmwvw4zw+RX5hCpZBmxTIbtoHs8SiZ5tZjkrFZzaC4PIds+glyC+RdlCye04+wsTJL+Lzi6vk2mkQvr15VDzc3UCvEsT7/CIXkffIySVZKaQJV3tvc3KAOdJhrfldq7wAmGSNUt74wgdDt7xAYfBeBa6cRunYKkesnEe4/heC1DxAZvUiFHppybtujxda4NyKYb5RWsEh0GB78iPxnyHcK4evvIKQkOYMfIz3Vg0Z52fEbOQd4ophqKC5OInL7ImW8j0jfGcp4m/kTCF97G3P9ZxC69RUKC/eph3Qxzl1pTweoP5ulNJIMVWc6DyNGsCKgEushfCXETTF2T3a9jmAn4/zb37DuvK0PNucpQKu0mdJqsrceIECMH+0k8BE6ZPyvFCMGiPMc6jyEqd4zWIuPk1FTYpt8dzRLWcTu/4qZ7mOICj0KPDFFmYQxwtQrQDnJ29+izpGwzfl8au8AGcBfJRdE5NbnVJB43lDcYXr+MFHbUeL7N5AmogvTiOmhc6gVk2zSm6nkt2EoWc0qMoEBBHqO0HlUXMjPIPEBxJT6WNZHBEhHrgSu0VJNJ7W/87CJ+voS5ka+RkiQmsgyoYcohiSPIMKyaN9+A1WhgXPYWA061jbU1gE+1curSD64jLkOGk2kFqEj9MTG0B0VNvTWdQyR8Z/RqDKe18rBUbBlgIg9WuBcneOwjWq0dByy5wTqxUTnPzgK9iPYc4gj5DQKiftk0ELmETMuvOZorOSRuv87Al1v0unSg6ORKULeSM9hjoRDCHUc4Qj4HvXiPFnd9NuN9nSAMROPl5cnkbp7CdHhs4gNvs/0LsJDpxEb/gCxG2cRv/stNhYniF24+nqroPX81pE/gp214AASI58hPvwe+T9AiCk6eIYyOJdvfYLl2T60SgRDstoX5F2ZJO5KpeVZJO4QVd74jO2fQ2Twn1xXOPdvfIjQyDnExn/AOtcJe45gDtjdA20dYI3qoPlIWFrOh7ASHWBPjqKYeco0gWJqHLnIIHE7jUfBFh1tx7YEWLuaCpoQMoBHIr31+bvIxfpQXHqI9cwc1lcfYi3RxxV8hL5eYkVntO1B5BWZGvxJUgtlNDZiyMeGkU2MoLgyidLqNNaXHiMTHWL+iS2AzRb1ZrDUjto6QBYo2HCbYQUr4TsIDn2O5ck/WJTh/TJyoVGEBs9jcboHzXre2GS9jLcVWAbQI64vmyitxRC7+yNit79GNRNgaR2l7BwiYxdYdon3Q2amgh0Z7JPLaRzpbgvry1OI3vgCyfs/or6R4r2G7Q7hm19ykfwJpdKCpFAP6b4t51lq6wANHfWFFNfzvfTjDsxeOYr46BfcqrjaN/JYmLiCia7jiN75gYoQ64vPHCZV7UKe8HSoMnZ4hFlum9P97yLPPXyzVWJc8RCznPuBvvcsvtBzAAU7ru9J6ghpYrKUGliLjnK1P4Ho9Y9QzsyweB1r4UF7rB7mYlzMBK1ZRa7tqK0DRM4JVKexwfk5xpX+K8SedKOykUe9XsXC3Cimhi8gOdHPhbtoPK6fdBTJeF5b4h7O+RsYu4SZ0W+RX5pEg47NMQCaG/sOwdHvUVgK2I7hy5DxEqErc4mCJO4QmfnHmB25iODdX1HIpVBvlpCJc5G98S0S47+iupbY4m1HezrANa4RUOW8W0OpkEC5tIgWjZd361ywKvkYd4oF1lH4KXKKq20ZoTi/wTigxdSsFhlRpi2qbNRynKc11FVWSFo02aiVTa7q6mmQulF2bI0pOWCTulRybHceleIy6uJpUk55jetUimUc/g2uR7aTuG7YjfZ2gDUrI6SCP5+kiBTUX9c2Lq2mrvxya9puM68RoMVtSx9ltEBuFZCM2wy2rJ8k2etNjQI3xUSugi28xqRJoxVCXaafr+/u9Dcc4HpAau5U1ZRniY5+E7pvZssoFro7yju1bWHzK2+RuLZmu8fhHOZLtELPQNfidv3nkcngwSFWydid9nCAieJRvzqHqjfEslFUcwFU87MoF0IEH4z+KllWr7H2zt5S476jqL7ENTYYoHAK5KJMYSbxhykr7AIXzmX1sOs916OSpYMMl1GKS5psT9OmnKWMfIB5Jm7TlTx1KVMXm45ygDHvSns6oKEYACXUcrPcBX5BeOQCt5/zSNw4h+TwxxaIxIa/xMKDP1gnxLo16yy3eKpx50Dr1XqOMcMtxG99jejNTyiHQdXwpy7dPIcEt8ZMWLEAt1gznuTJcmcVNKyd9NPfEbz1BcI3PiHvR4iNfshw/SzCo58j9egyyqszZKh4upik51JbB4jPBhzR2cLjywQ8hxm2Mn5nSBxjPs5QOMpwNsJQeLb7KBJPfkKzxkCG5moW2uCTAjaam0SUj4kk/8lQ9QBD1oOWBIT0MiTG0Foh9dy191BME1VqzZEC5PXcZ8Ka9SyN/5XtHcYcQ2ABq6SF6Ecoh+E1QdE0Q+3Ew5+4VUsXuv//7wD9uHtnU4iMfEkw9BoW2MB812EkaXiMgCjWT+RFICMgMsVRUSvGyOErLJIH+K/XCXKGiOKonF6HCQwxdtdrsETfayZD7wYDnUe53V7nVGDviduU10Fd0UB1Y569fp4dsN/x0olpGpwiFklSdoqyI3TEHAO2jUxEzG2pvQOs6xpocM7G7n2PaQKNGA2NyXgqG+19zWCo3uSGqXhw5Fti/mVnsCkucmvAJoOXbGwcsz1vsafcK3A5IUYD4uzNGFGm8jPdJ5GJ3SK/YgFPjslyU6leyiF1+yeCqaP2ei1izhQ8l16SwVFAZ8RvXeQ6lRZjW2rrALW8qf24yWAlPY7AzU85RM8w+nqHvX8U0X4iwP7jTG8hPPwJ4/s7FqRo9m4rTvPtos7RMU9UeYX13+PIeZvQlZGcEvkj147bg5bYo19YT4qTx5dBfv1sTDG+LyQfI8gweE4PZfpPEka/SXhOdMh8pP80wgPUJTrGUVdy/G1oDwdwLrPBluZjcx2V1adYDXRgLdTNBoZp8Bhy4QHi/C4iNM7bRo66kke6a/TIcP7dZNBqzoClNI88AUuGciQjG7tNOTewNvdvXg9yk9CjNfW+vhXSSi45JsDIRlODgVNmksiyC6tM+egNpltcYIeQDXSjvDjOOivcdbgrmfN3pz0coOb0E9WQW3iA6L1LWA7qgYWAT8mex4UIbpYjXL2tzKznWePAreTidw6po8ooMEn8kFJPMxpU/dp6EulHPyP56Aq3M0aU1qamjnagbQfYbqDIkPfK2SDiD35EeqoTVUah4JQpM/5PPLyM9GwvqpUV7mCKPpz2u9EeDlCjLrHrkJy6gicdR7jdfEN0zBW2nsHSxL/x+OpJhG5fRL0yr4riEqt39oav9m8qXlicwiSnwGzPO9jgrqCpUUw/QaDnFKb73kd28anVc1zGbsnlWWbBDTuDI2e642379qiYmeXNErLcQp92nsTM0KfeAugxt6E9HCBmDV02XN/A/Mw1Kv8+4vd/5jxdQKOaxdJ0P5HdWSTu/8Lhy54g2RRQxmvb7QnCAlUCoBkERs4jyDVjfYG4nYFPYf4pQsOfcV5/ifzCBBn854ESJCHmQp6VKIc7hBbU4PVziLIzDEJrneK8D17/kLD6K5QyjElsBHhK7EJ7OEANVq3xzSZxO1FXjsoWM4za6JBGg2UEJIWFKZRWIwwEN4zLqbyd01GDuknFqwRUhcVpFJYnUSmtEgxxa+N5ndfrRIr1jQzbYntyOkeCyTBhbkpZORfmKkdgYeEpCisB1Mp5znkusuuLKLJsY3mCUat7NPfCobB6Tv3RNDDERcmGMsmAjcp01x+yqq/+9uee6rKESvh3Hcki8cogZ5i7lqw6neKifTs67zGJ3106m3RwbSto2tRizZ9a9uVtvTZrQ3s4QA26fmhQkBmnHqBMKaHdwS1UaozlLNvuOdV2/FJUV84NKnPlDh06Z+lobbDMQIzJ9Byg5J0sK2eYkyRTbSnnO8C5xpTUXFRqQ3s4QBYptnd+NXk8K/8Xsaa85wj7eaGw1XR508VTSNdS1pnv87hy5yzeMY+yQMZYTT0PJMa32MTVfz5RpvRghReaAk41ryfYaLOa5zZGNFggGizEOOfSPM/bgtiq6Uku1ws26JzgOcAMcHZbj2vt2FimnAXyp8ibtFdZ2hIbpUXW2SCn+8jW7DYr5CqNNjpA4Iwgp1nLocx29RClmk+jRpRazSdQ43WL81+66GsTJemzG7V1gLyoUETG6F3c/GQH4mMXkBj7HIlb5xlufkEU9jkity8gPXmVoSe3Hu7H4vBHjTNAw5qOYaC0nrxrH0vFuHonR75CiugySZwRH/sSifEfkIvfZT3CWbnABGgUyAFyqo5Eg9RlYaYX4buXEBmjDmOfIXqHeoydR+TON5jn1lzNBdksHflCDmBS061ahgjsD0z1HEOo5zUXv+s1GZFYjOgw2PEGJnveRvzxb9zBVtmgDPaHtpMiVxZWJjA79DECrB/WSxWhSQIrockwkd0cZc1dO2vbo3tjLJIMOdGZ32ysIzXZRVyi747J272fiHQ/QsQEQeo1130E013HGXL/RhRLXdw43JXaOsBRi2gwjBARWFDAp+9/DM0lCIhSbHCeRsx3EZgQDs/e+JQjXO/jvDkodjsrV2W0OIzJrjfte2H7QNJehzERCLnPaIkGeX85MMje00gS+b0nQxggE2zN3bpgr79SND7V+7rxJekMyU0SDEXVKQOfYWM17PHtTm0doKa1HOlJTWzsB8xeJXylE/SCNGqvovRicj/SxPNhjogwFdOLVMfnES90rQej2fiYfQAZIb8QnD6HTdGQJB0ZM0RIB/S+iUyEaFALqrG7o0+N0hpidzj0zWjponeLdCihdZL8KenWyXJOq/JajJwv7AAeGa2tUfnA0FkEOdQj3UJxxzHXxynBFOk/gbmBj7AWvcm668+o7OV4qjLOj97/lZHjKXudHes9zpF0jLD6KK/fwgxRZuTBd7Yo+jxO1vZk2iSgysbvYIbtBa8J/R1FWHr0EBH2cCTSgUKsmfB1riXuG+N21NYBrv/1kSN7o15AcfERVqY6sDLTgYXZTizyvDbzb2SmrzCuf8Rqedb3Fj+P/AngdoEKp0iCMfsglicvU9YVLM90YWX6D6xO/YZsaICjLWEI1C1cthdIiJGTw52A7RRXHmFp5jcszzIRja7M9GCZui1PX8X6/Li3FnEF83h3o7/hAG47FgC0UFiaJmq7zCE6zF1RDx7XUVq4h+TDn7GWuM8qCpsdn7ne/tpDtHYrX2PYm6DjurE48Tu3Lj1DLHFVD9rrtuWpHoa4eqNLN9r+rWmgbdWYLdk7A+pUyQftGeUi4a+BsE3qkg0gxcV6JThkOEUy3LjZnfZwAPtARtjYKyNO7z65ypV75Gv3BrdRoSEqO4bwne/tCxAjY9DZHeRGy/KcW3qCqf7TXAvewXpaaLCB4vJjzPS+g4m+08guPWDdMn3ub33uZ3l6wj7QoiOzsTFMXX0LgYFzBEN6x1jESpSLbMdxhO11mb4NUCwi1+9ObR2gZp3qbJjDLhnoxDTnV/L2v+xDBQUjixx2M/0su/czhy8DGavtju6kMx2iIKjZJICZsR0lNHgOheQTbvEVe18YJIQNDJ1HlmBLn+TYS1n97UReG84aS02CsA2sRsYw2/8RQje/5mpPONzKYyU8bJ/rJG5+hbLAmX42fHantg6Q+eohy3F4b+SjWEs+IGqbQ72md4Oci5kAF6Vx+/CpWSuyh6SuNW0G2EFrCB2w2WjQcRnk05PIJR8yGlykYyuoMCrMp4nsUjOM7NZMhrPcBDgxpgsdQGfW6bSNXJIyHtBhU5xWGd6iHKLVQuoJZU1xu+R6JBalNrSHA9S0W9Rcr7pecOUEH4YGde3CVJvtW4rrzJOVcihScReXq74AlHvcZeGx8eraASv7ENPqOu1d286tFl/YPdXVmiOdWCY51rZ7d2j6acSYDrvTHg54VfSsVrreTs7gvahdHV/W3rRv3759/wfcy0C1ffeTwQAAAABJRU5ErkJggg=="
+                                                                    alt="" /> Класна стая</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p><img style="margin-left: 30px;"
+                                                                    src="data:image/png;base64,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"
+                                                                    alt="" /> Заседателна маса</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr style="background-color:#eee">
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>Черно Море</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>213</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>11,5 м /18,5 м /3,0 м</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>230</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>40</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>132</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>Варна</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>144</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>12,5 м /11,5 м /3,0 м</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>130</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>32</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>80</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr style="background-color:#eee">
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>Галата</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>59</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>9 м /6,5 м / 3,0 м</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>50</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>20</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>32</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>Одесос</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>63</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>10,5 м / 6 м /3,0 м</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>20</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+					<tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>България I+II+III</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>437</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>550</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>86</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>304</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+					<tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>България част I</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>144</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>178</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>46</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>88</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+					<tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>България част II</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>147</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>188</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>46</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>96</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+					<tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>България част III</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>144</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>164</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>42</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>84</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+					<tr>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>България част I+II или II+III</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div style="display:flex; gap:2rem">
+                                                        <div>
+                                                            <p>291</p>
+                                                        </div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>350</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>54</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>180</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div>
+                                                        <div>
+                                                            <p>N/A</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                    <button class="resBtnConf" id="resBtnConf" style="cursor:pointer"
+                                        onclick="window.location.href = './events-request.html'">Резервирай</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="clear"></div>
+
+                    </section>
+                </div>
+
+                <!-- Below Sidebar Section-->
+
+            </div>
+            <!-- gdlr-content -->
+            <div class="clear"></div>
+        </div>
+        <!-- content wrapper -->
+
+        <footer class="footer-wrapper" id="footer-wrapper"></footer>
+    </div>
+    <!-- body-wrapper -->
+    <style>
+        /* CSS for responsive table */
+        .table-container {
+            display: flex;
+            justify-content: center;
+            font-size: 14px;
+            border-color: black !important;
+        }
+
+        .table-border {
+            border-top: 1px solid #c2b485;
+            border-bottom: 1px solid #c2b485;
+        }
+
+        .halls {
+            padding: 50px;
+            margin: 85px 0;
+            background-color: #EEEEEE;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .hall {
+            display: flex;
+            width: 100%;
+        }
+
+        .hall-img {
+            width: 500px;
+        }
+
+        .hall-text {
+            width: auto;
+            padding-top: 40px;
+        }
+
+        .odesos {
+            width: auto;
+        }
+
+        .hall-text h2 {
+            color: #44657C;
+            font-size: 36px;
+        }
+
+        .hall-text p {
+            padding-top: 20px;
+            font-size: 20px;
+            text-align: left;
+        }
+
+        .flexli {
+            width: 500px !important;
+        }
+
+        .odessos .flex-direction-nav .flex-next {
+            /* margin-right: 130px; */
+        }
+
+        .flex-control-nav-wrapper {
+            margin-right: 150px;
+        }
+
+        .resBtnConf {
+            background-color: #bea78b;
+            font-size: 12px;
+            font-weight: 400;
+            font-style: normal;
+            text-align: center;
+            border-radius: 6px;
+            color: #fff;
+            padding: 8px;
+            margin: 30px 500px 0;
+            font-size: 13px;
+            width: 150px;
+        }
+
+
+
+        tbody p {
+            display: grid;
+            padding: 20px;
+        }
+
+        @media only screen and (max-width: 949px) {
+            table {
+                width: 100%;
+                max-width: 100%;
+                transform: scale(0.4);
+                transform-origin: top;
+                margin-bottom: -300px;
+            }
+
+            .gdlr-item h1 {
+                font-size: 36px;
+            }
+
+            .hall {
+                display: block;
+            }
+
+            .hall-text {
+                width: 100%;
+            }
+
+            .hall-text h2 {
+                font-size: 22px;
+                white-space: nowrap;
+            }
+
+            .hall-text p {
+                font-size: 16px;
+            }
+
+            .hall img {
+                display: block !important;
+                padding: 10px;
+            }
+
+            .flexslider {
+                display: none;
+            }
+
+            .resBtnConf {
+                margin: 0 50px;
+            }
+        }
+    </style>
+
+    <!-- Umni bg script start -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script id="umniWidget" type="text/javascript" data-name="myscript" src="https://widget.umni.bg/sdk.js" data-ai_account="Chernomorebg" data-session="no" data-start="open" data-language="bg"  data-segment="" data-pulse="yes" data-position="right" data-z-index="9999" data-f-page="?clock-pms-wbe=" data-c-page="" data-ver="" defer></script>
+
+    <script>
+        var afterHashtag = window.location.hash.substr(1); document.getElementById("umniWidget").setAttribute("data-segment", afterHashtag);
+        var urlPath = window.location.href.split("/"); if (urlPath.length > 1) { var first_part = urlPath[3]; document.getElementById("umniWidget").setAttribute("data-c-page", first_part); }
+        let details = navigator.userAgent; let regexp = /android|iphone|kindle|ipad/i; let isMobileDevice = regexp.test(details); if (isMobileDevice) { document.getElementById("umniWidget").setAttribute("data-start", "close"); }
+    </script>
+    <!-- Umni bg script end -->
+
+    <script type='text/javascript' src='js\jquery\jquery.js'></script>
+    <script type='text/javascript' src='js\jquery\jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='js\jquery\ui\core.min.js'></script>
+    <script type='text/javascript' src='js\jquery\ui\datepicker.min.js'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var objectL10n = {
+            "closeText": "Done",
+            "currentText": "Today",
+            "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+            "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+            "monthStatus": "Show a different month",
+            "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+            "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+            "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"],
+            "firstDay": "1"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='plugins\gdlr-hostel\gdlr-hotel.js'></script>
+    <script type='text/javascript' src='plugins\superfish\js\superfish.js'></script>
+    <script type='text/javascript' src='js\hoverIntent.min.js'></script>
+    <script type='text/javascript' src='plugins\dl-menu\modernizr.custom.js'></script>
+    <script type='text/javascript' src='plugins\dl-menu\jquery.dlmenu.js'></script>
+    <script type='text/javascript' src='js\jquery.easing.js'></script>
+    <script type='text/javascript' src='js\jquery.transit.min.js'></script>
+    <script type='text/javascript' src='plugins\fancybox\jquery.fancybox.pack.js'></script>
+    <script type='text/javascript' src='plugins\fancybox\helpers\jquery.fancybox-media.js'></script>
+    <script type='text/javascript' src='plugins\fancybox\helpers\jquery.fancybox-thumbs.js'></script>
+    <script type='text/javascript' src='plugins\flexslider\jquery.flexslider.js'></script>
+    <script type='text/javascript' src='js\jquery.isotope.min.js'></script>
+    <script type='text/javascript' src='js\gdlr-script.js'></script>
+</body>
+
+</html>
