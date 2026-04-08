@@ -220,12 +220,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </nav>
 
               <div className="mt-12">
-                <button 
-                  onClick={() => { setIsBookingOpen(true); setIsMenuOpen(false); }}
-                  className="w-full py-4 bg-brand-blue text-white font-bold uppercase tracking-widest rounded-xl hover:bg-brand-blue-light transition-all"
+                <a 
+                  href={BOOKING_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => setIsMenuOpen(false)}
+                  className="block w-full py-4 bg-brand-blue text-white text-center font-bold uppercase tracking-widest rounded-xl hover:bg-brand-blue-light transition-all"
                 >
                   Резервирай сега
-                </button>
+                </a>
               </div>
             </motion.div>
           </motion.div>
