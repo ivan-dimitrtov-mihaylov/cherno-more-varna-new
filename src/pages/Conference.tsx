@@ -90,7 +90,7 @@ export default function Conference() {
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-6 pb-24 w-full">
           <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
-            <h1 className="text-6xl md:text-7xl lg:text-8xl text-white tracking-tight mb-4 leading-tight font-sans italic">
+            <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl text-white tracking-tight mb-4 leading-tight font-sans italic">
               Конферентен Център
             </h1>
             <p className="text-zinc-300 text-xl md:text-2xl font-light max-w-2xl leading-relaxed">

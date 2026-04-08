@@ -195,14 +195,12 @@ export default function Offers() {
                 +359 889 624 017
                 <ChevronRight className="w-5 h-5" />
               </a>
-              <a
-                href={BOOKING_URL}
-                target="_blank"
-                rel="noopener noreferrer"
+              <Link
+                to="/accommodation"
                 className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-white hover:bg-zinc-50 text-zinc-900 border border-zinc-200 font-semibold rounded-full transition-all shadow-sm"
               >
                 Разгледай стаите
-              </a>
+              </Link>
             </div>
           </motion.div>
         </div>

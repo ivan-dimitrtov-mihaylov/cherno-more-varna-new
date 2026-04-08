@@ -103,13 +103,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         </nav>
 
         <div className="flex items-center gap-2 bg-brand-blue/90 dark:bg-brand-blue/90 backdrop-blur-md border border-brand-blue/30 dark:border-brand-blue/30 rounded-full px-4 py-2.5 z-10">
-          <button
-            onClick={() => setIsBookingOpen(true)}
+          <a
+            href={BOOKING_URL}
+            target="_blank"
+            rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-5 py-2.5 bg-brand-blue text-white text-xs font-bold uppercase tracking-wider rounded-full hover:bg-brand-blue-light transition-all"
           >
             <Calendar className="w-3.5 h-3.5" />
             Резервирай
-          </button>
+          </a>
 
           <button onClick={toggleTheme} className="p-2.5 rounded-full hover:bg-white/10 dark:hover:bg-white/10 transition-colors text-white dark:text-white">
             {theme === 'light' ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
@@ -174,8 +176,25 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </div>
               
               <nav className="flex flex-col gap-6">
-                {navLinks[language].map((item) => (
-                  item.isExternal ? (
+                {navLinks[language].map((item) => {
+                  // If it's the accommodation link, force it to the internal page for mobile as requested
+                  const isAccommodation = item.path === BOOKING_URL;
+                  
+                  if (isAccommodation) {
+                    return (
+                      <Link 
+                        key={item.path} 
+                        to="/accommodation" 
+                        onClick={() => setIsMenuOpen(false)}
+                        className="flex items-center justify-between text-2xl font-sans text-zinc-900 hover:text-brand-blue transition-colors border-b border-zinc-100 pb-4"
+                      >
+                        {item.label}
+                        <ChevronRight className="w-5 h-5 text-zinc-300" />
+                      </Link>
+                    );
+                  }
+
+                  return item.isExternal ? (
                     <a 
                       key={item.path} 
                       href={item.path}
@@ -196,8 +215,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                       {item.label}
                       <ChevronRight className="w-5 h-5 text-zinc-300" />
                     </Link>
-                  )
-                ))}
+                  );
+                })}
               </nav>
 
               <div className="mt-12">

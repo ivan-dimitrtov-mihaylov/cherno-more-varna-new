@@ -193,15 +193,13 @@ export default function Home() {
           <p className="text-lg md:text-xl font-sans font-light opacity-90 max-w-2xl mx-auto mb-12 tracking-wide leading-relaxed">
             {t.heroSubtitle}
           </p>
-          <a
-            href={BOOKING_URL}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            to="/accommodation"
             className="inline-flex items-center gap-3 px-10 py-4 bg-white/10 backdrop-blur-md border border-white/30 rounded-full text-white hover:bg-white/20 transition-all text-xs font-medium tracking-[0.2em] uppercase"
           >
             {t.viewRooms}
             <ChevronRight className="w-4 h-4" />
-          </a>
+          </Link>
         </motion.div>
       </section>
 
@@ -234,13 +232,11 @@ export default function Home() {
             style={{ scrollBehavior: "smooth" }}
           >
             {rooms.map((room) => (
-              <a
-                href={BOOKING_URL}
-                target="_blank"
-                rel="noopener noreferrer"
+              <Link
+                to="/accommodation"
                 key={room.id}
                 data-room-card
-                className="group shrink-0 w-[300px] md:w-[400px] bg-zinc-100 dark:bg-brand-blue rounded-3xl overflow-hidden border border-zinc-200 dark:border-brand-blue/30 transition-all duration-500"
+                className="group shrink-0 w-[300px] md:w-[380px] bg-zinc-100 dark:bg-brand-blue rounded-3xl overflow-hidden border border-zinc-200 dark:border-brand-blue/30 transition-all duration-500"
               >
                 <div className="relative aspect-[4/5] overflow-hidden">
                   <img src={room.img} alt={room.title} className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" />
@@ -249,7 +245,7 @@ export default function Home() {
                     <h3 className="text-2xl font-sans mb-2">{room.title}</h3>
                   </div>
                 </div>
-              </a>
+              </Link>
             ))}
           </div>
         </div>
@@ -303,17 +299,12 @@ export default function Home() {
             <img src="/images/suite.jpg" alt="Rooms" className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" />
             <div className="absolute inset-0 bg-gradient-to-t from-zinc-900/90 via-zinc-900/20 to-transparent flex flex-col items-center justify-end pb-20 px-6 text-center">
               <h2 className="text-white text-4xl md:text-6xl font-sans tracking-tight mb-8 uppercase italic">{t.lifestyle.rooms}</h2>
-              <a
-                href={BOOKING_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-4 text-white group/btn"
-              >
+              <Link to="/accommodation" className="flex items-center gap-4 text-white group/btn">
                 <span className="text-[10px] uppercase tracking-[0.3em] font-bold">{t.lifestyle.roomsLink}</span>
                 <div className="w-10 h-10 rounded-full border border-white/20 flex items-center justify-center group-hover/btn:bg-white group-hover/btn:text-zinc-900 transition-all duration-500">
                   <ChevronRight className="w-4 h-4" />
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
